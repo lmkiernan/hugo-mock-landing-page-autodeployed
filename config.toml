@@ -1,8 +1,7 @@
-baseURL = 'https://github.com/lmkiernan'
+baseURL = 'https://github.com/lmkiernan.github.io/hugo-mock-landing-page/'
 title = "YRBK"
 author = "Liam Kiernan"
-copyright = "Open-source <a class=\"text-muted text-decoration-none\" href=\"https://github.com/filipecarneiro/hugo-bootstrap-theme/blob/main/LICENSE\">MIT</a> Licensed."
-
+copyright = "Liam Kiernan"
 timeZone = 'Europe/London'
 
 # Multilingual
