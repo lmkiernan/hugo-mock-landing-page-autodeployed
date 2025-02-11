@@ -4,7 +4,9 @@
   "description": "hugo-mock-landing-page mock website for CIS 3500",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "sass /Users/liam/hugo-mock-landing-page/themes/hugo-bootstrap-theme/exampleSite/assets/sass/styles.scss /Users/liam/hugo-mock-landing-page/themes/hugo-bootstrap-theme/exampleSite/assets/css/styles.css"
+
   },
   "repository": {
     "type": "git",
