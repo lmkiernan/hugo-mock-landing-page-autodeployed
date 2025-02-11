@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bjørn Erik Pedersen on YRBK</title>
-    <link>https://github.com/lmkiernan.github.io/hugo-mock-landing-page/authors/bj%C3%B8rn-erik-pedersen/</link>
+    <link>https://lmkiernan.github.io/hugo-mock-landing-page/authors/bj%C3%B8rn-erik-pedersen/</link>
     <description>Recent content in Bjørn Erik Pedersen on YRBK</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Liam Kiernan</copyright>
     <lastBuildDate>Mon, 10 Feb 2025 21:15:53 -0500</lastBuildDate>
-    <atom:link href="https://github.com/lmkiernan.github.io/hugo-mock-landing-page/authors/bj%C3%B8rn-erik-pedersen/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://lmkiernan.github.io/hugo-mock-landing-page/authors/bj%C3%B8rn-erik-pedersen/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Post 1</title>
-      <link>https://github.com/lmkiernan.github.io/hugo-mock-landing-page/post/hugo-v0-99/</link>
+      <link>https://lmkiernan.github.io/hugo-mock-landing-page/post/hugo-v0-99/</link>
       <pubDate>Wed, 18 May 2022 00:00:00 +0100</pubDate>
-      <guid>https://github.com/lmkiernan.github.io/hugo-mock-landing-page/post/hugo-v0-99/</guid>
+      <guid>https://lmkiernan.github.io/hugo-mock-landing-page/post/hugo-v0-99/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;hugo-logo.svg&#34; alt=&#34;Hugo&#34;&gt;&#xA;{ .img-fluid .mb-5 }&lt;/p&gt;&#xA;&lt;p&gt;Fix server regression for multihost sites (multiple languages with different baseURLs).&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/gohugoio/hugo/releases&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Release Notes on GitHub&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>

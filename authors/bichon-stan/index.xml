@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bichon Stan on YRBK</title>
-    <link>https://github.com/lmkiernan.github.io/hugo-mock-landing-page/authors/bichon-stan/</link>
+    <link>https://lmkiernan.github.io/hugo-mock-landing-page/authors/bichon-stan/</link>
     <description>Recent content in Bichon Stan on YRBK</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Liam Kiernan</copyright>
     <lastBuildDate>Mon, 10 Feb 2025 21:38:27 -0500</lastBuildDate>
-    <atom:link href="https://github.com/lmkiernan.github.io/hugo-mock-landing-page/authors/bichon-stan/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://lmkiernan.github.io/hugo-mock-landing-page/authors/bichon-stan/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Coaching must-have</title>
-      <link>https://github.com/lmkiernan.github.io/hugo-mock-landing-page/post/hugo-v0-100/</link>
+      <link>https://lmkiernan.github.io/hugo-mock-landing-page/post/hugo-v0-100/</link>
       <pubDate>Wed, 08 Jun 2022 00:00:00 +0100</pubDate>
-      <guid>https://github.com/lmkiernan.github.io/hugo-mock-landing-page/post/hugo-v0-100/</guid>
+      <guid>https://lmkiernan.github.io/hugo-mock-landing-page/post/hugo-v0-100/</guid>
       <description>&lt;p&gt;I use this as a coach and have found so many of my recruits with this app. It saves my team so much time and I love the simplicity of the layout. It really has helped me find my ideal athlete!&lt;/p&gt;</description>
     </item>
   </channel>
