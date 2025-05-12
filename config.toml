@@ -1,4 +1,4 @@
-baseURL = 'https://github.com/lmkiernan.github.io/hugo-mock-landing-page/'
+baseURL = 'https://github.com/lmkiernan.github.io/hugo-mock-landing-page-autodeployed/'
 title = "YRBK"
 author = "Liam Kiernan"
 copyright = "Liam Kiernan"
